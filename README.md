@@ -1,1 +1,2 @@
-# aws-codedeploy-sample-tomcat1
+# aws-codedeploy-sample-tomcat
+A sample Tomcat application integrated with CodeDeploy. 
